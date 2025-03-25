@@ -9,7 +9,7 @@ My project aims to find the lowest risk aircraft carriers and enhance aviation s
 patterns in aviation accidents.
 
 ## Project overview
-In this project using NTSB Aviation data(1962- 2023), the aim is to enhance aviation safety by understanding accident patterns and provide actionable insight for future investment opportunities. The data will be first reviewed to farmiliarise with the rows and columns.Then it will be checked for missing values and all unecessary datasets cleared. Finally we will perfom analysis with visualizations and provide recommendations and insights.
+In this project using NTSB Aviation data(1962- 2023),(link to dataset: https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses), the aim is to enhance aviation safety by understanding accident patterns and provide actionable insight for future investment opportunities. The data will be first reviewed to farmiliarise with the rows and columns.Then it will be checked for missing values and all unecessary datasets cleared. Finally we will perfom analysis with visualizations and provide recommendations and insights.
 
 ## Objectives
 My objectives involve identifying recurring factors that contribute to incidents, such as specific aircraft types and weather conditions with aim to reduce accident frequency. Specific objectives include:
