@@ -27,21 +27,21 @@ These are the key columns used during visualization after the data has been clea
 6. Total.Fatal.Injuries, Total.Serious.Injuries, etc.: Numeric injury counts (nulls filled with 0).
 
 ## Data cleaning
-** Step 1:
+* Step 1:
 Checking for null values.
-** Step 2:
+* Step 2:
 Converting the continous data into integers and changing the null values to no.0.
-** Step 3:
+* Step 3:
 Check for duplicates in the code.
-** Step 4:
+* Step 4:
 Dropping the rows containing null values only in the Event.Date column.
-** Step 5:
+* Step 5:
 Changing the Event.Date to a datetime object.
-** Step 6:
+* Step 6:
 Filling the categorical data with the value 'Unknown'.
-** Step 7:
+* Step 7:
 Dropping all the columns with null values and remaining with the filtered columns needed for visualization.
-** Step 8:
+* Step 8:
 Saving the cleaned dataset in a new document and retaining the old document as a copy.
 
 
