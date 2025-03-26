@@ -4,6 +4,8 @@
 
 -Instructor: Diana Mongina
 
+### UNDERSTANDING ACCIDENT PATTERNS
+
 ## Goal
 My project aims to find the lowest risk aircraft carriers and enhance aviation safety by understanding 
 patterns in aviation accidents.
