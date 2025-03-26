@@ -58,7 +58,7 @@ Among all the aircraft, Cessna has the highest number of accident occurrence. Th
 Accidents over the years have decreased. This might be due to innovation in the airline sector combined with new safety protocols and precautions put in place over the years. The aviation division should now monitor the trends and identify potential risk factors and take preventive actions.
 
 ### 3.A histogram: injury severities across different aircraft Make
-![Histogram and line graph](Images/injury_severity_combined_by_make.png)
+![Histogram](Images/injury_severity_combined_by_make.png)
 
 The stacked histogram bars show the total count of incidents per Make, with colors indicating Injury.Severity proportions 
 e.g., Cessna’s bar might be mostly red for Fatal incidents. Boeing, Grumman and Mooney are the low risk investments aircraft Make.
