@@ -14,7 +14,7 @@ In this project using NTSB Aviation data(1962- 2023),(link to dataset: https://w
 ## Objectives
 My objectives involve identifying recurring factors that contribute to incidents, such as specific aircraft types and weather conditions with aim to reduce accident frequency. Specific objectives include:
  1. Identifying which aircraft models or Makes are most associated with accidents and fatalities.
- 2. Detecting long-term trends in accident rates to assess whether safety measures are effective over time or if new risks are emerging.
+ 2. Detecting long-term trends in accident rates to assess whether safety measures are effective over time or if new risks are emerging e.g. unpredicted weather conditions.
  3. Identify potential investments for stakeholders in aircraft Makes and airlines with low accident rates which will also help in long-term improvements on fleet management.
 
 ## Key columns
